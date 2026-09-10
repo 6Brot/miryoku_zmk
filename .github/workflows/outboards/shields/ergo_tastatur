@@ -1,0 +1,4 @@
+outboard_repository=6Brot/Ergo-Shield-2
+outboard_ref=main
+outboard_from=boards/shields/ergo_tastatur
+outboard_to=boards/shields/ergo_tastatur
